@@ -1,0 +1,76 @@
+
+#map {
+    width:100%;
+    height: 350px;
+}
+
+.select2.select2-container {
+    width: 100% !important;
+}
+.select2-container .select2-selection--single {
+    height: 40px;
+}
+.select2-container--default .select2-selection--single .select2-selection__rendered {
+    color: #6e707e;
+    line-height: 40px;
+}
+.select2-container--default .select2-selection--single .select2-selection__arrow {
+    height: 38px;
+}
+.select2-container--default .select2-selection--single {
+    border: 1px solid #ebedf2;
+}
+.select2-container .select2-selection--single .select2-selection__rendered {
+    padding-left: 14px;
+    padding-right: 26px;
+}
+.thumbnail-img-product {
+    object-fit: cover;
+    height: 200px;
+}
+.search form:after {
+    content: "\f002" !important;
+    font-family: FontAwesome;
+    position: absolute;
+    font-size: 160px;
+    color: #E4E7ED;
+    top: 15px;
+    -webkit-transform: translateY(-50%) rotate(90deg) !important;
+    -ms-transform: translateY(-50%) rotate(90deg) !important;
+    transform: translateY(-50%) rotate(90deg) !important;
+    z-index: -1;
+    left: -90px;
+}
+.navbar {
+    margin-bottom: unset;
+}
+.navbar-brand {
+    float: left;
+    height: 50px;
+    padding: 5px 15px;
+    font-size: 18px;
+    line-height: 20px;
+}
+.navbar-toggle {
+    margin-top: unset;
+    position: relative;
+    float: right;
+    padding: 9px 10px;
+    font-size: 24px;
+    margin-right: 15px;
+    margin-bottom: 8px;
+    background-color: transparent;
+    background-image: none;
+    border: 1px solid transparent;
+    border-radius: 4px;
+}
+.navbar-toggle .icon-bar {
+    display: block;
+    width: 22px;
+    height: 2px;
+    border-radius: 1px;
+    color: #fff;
+}
+button, input {
+    outline: unset;
+}

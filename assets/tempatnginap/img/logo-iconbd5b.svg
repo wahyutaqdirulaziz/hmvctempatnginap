@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+    <defs>
+        <linearGradient id="a" x1="0%" x2="99.986%" y1="50%" y2="50%">
+            <stop offset="0%" stop-color="#70CBD0"/>
+            <stop offset="100%" stop-color="#459999"/>
+        </linearGradient>
+        <linearGradient id="b" x1="50.047%" x2="50.047%" y1="12.867%" y2="63.729%">
+            <stop offset="0%" stop-color="#FED402"/>
+            <stop offset="100%" stop-color="#F49F1E"/>
+        </linearGradient>
+        <linearGradient id="c" x1="12.835%" x2="63.729%" y1="49.953%" y2="49.953%">
+            <stop offset="0%" stop-color="#FED402"/>
+            <stop offset="100%" stop-color="#F49F1E"/>
+        </linearGradient>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <ellipse cx="11.866" cy="11.843" fill="url(#a)" rx="11.866" ry="11.843"/>
+        <path fill="#FFF" d="M19.195 16.464l-1.064-1.06a7.616 7.616 0 0 0-1.789-9.898 7.651 7.651 0 0 0-10.066.482 7.615 7.615 0 0 0-.83 10.024 7.65 7.65 0 0 0 9.85 2.126l1.113 1.11a1.974 1.974 0 0 0 2.755-.034c.757-.756.77-1.977.031-2.75z"/>
+        <path fill="url(#b)" d="M13.559 8.614a1.704 1.704 0 0 0-1.695-1.638 1.704 1.704 0 0 0-1.713 1.62v.018l.019 6.455a1.704 1.704 0 0 0 1.68 1.658 1.704 1.704 0 0 0 1.728-1.607l-.02-6.506z"/>
+        <path fill="url(#c)" d="M8.63 10.15a1.704 1.704 0 0 0-1.641 1.692 1.704 1.704 0 0 0 1.623 1.71h.019l6.467-.02a1.704 1.704 0 0 0 1.661-1.675 1.704 1.704 0 0 0-1.61-1.726l-6.518.02z" style="mix-blend-mode:multiply"/>
+    </g>
+</svg>
